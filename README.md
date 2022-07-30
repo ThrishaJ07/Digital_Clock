@@ -1,5 +1,5 @@
 # Digital_Clock
-Simple Digital Clock app using HTML, CSS, and JavaScript
+Simple Digital Clock using HTML, CSS, and JavaScript
 
 [Click here](https://thrishaj07.github.io/Digital_Clock/)
 
